@@ -4,7 +4,7 @@
 ![Instagram Badge](https://img.shields.io/badge/-@souzawess-purple?logo=instagram&logoColor=white&labelColor=purple&style=for-the-badge&link=https://www.instagram.com/souzawess/)
 ](https://www.instagram.com/souzawess/)
 
-My name is Wesley Souza and full-stack developer since 2020. I'm  from Brazil :brazil: graduated in computer engineering.
+My name is Wesley Souza and front-end developer since 2020. I'm  from Brazil :brazil: graduated in computer engineering.
 
  I hope help you with my codes or my knowledge, and i wanna learn very much with you :eyeglasses:
 
