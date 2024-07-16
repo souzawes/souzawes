@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://i.ibb.co/DwLqsq6/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia.png" width = 70px></picture> **About me**
+## **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
