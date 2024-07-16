@@ -20,7 +20,7 @@
 - An agile front-end and mobile developer
 - Passionate about applications with artificial intelligence
 - An adaptation to the use of agile methodologies
-- I am currently open for a new job opportunity, this is <a href="https://drive.google.com/file/d/1ytvKHsjss0Kgi9sb4i0cbGIIp2MOeRd_/view?usp=sharing" target="_blank">my resume.</a>
+- I am currently open for a new job opportunity, this is <a href="https://drive.google.com/file/d/1ytvKHsjss0Kgi9sb4i0cbGIIp2MOeRd_/view?usp=sharing" target="_blank" rel="noreferrer noopener">my resume.</a>
 
 <br><br>
 
